@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\bin\Debug\çoklu sayı toplama.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\bin\Debug\çoklu sayı toplama.exe
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\bin\Debug\çoklu sayı toplama.pdb
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\obj\Debug\çoklu sayı toplama.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\obj\Debug\çoklu sayı toplama.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\obj\Debug\çoklu sayı toplama.exe
+C:\Users\Serhat\Desktop\PT ODEV\çoklu sayı toplama\obj\Debug\çoklu sayı toplama.pdb
